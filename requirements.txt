@@ -1,4 +1,3 @@
 pyTelegramBotAPI
-mega.py==1.0.8
+mega.py
 flask
-gunicorn
