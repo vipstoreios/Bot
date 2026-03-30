@@ -7,7 +7,7 @@ from flask import Flask
 from threading import Thread
 
 # زانیارییەکانت
-API_TOKEN = '8400153721:AAEZ-EE3DzMmx5D_irDRq4CYWiVH9UVckyM'
+API_TOKEN = '8400153721:AAHIiqTEQzVAB8OfuENdPyAGx7IDCrPWpfQ'
 MEGA_EMAIL = 'kakaado.tech@gmail.com'
 MEGA_PASSWORD = 'Ostaz.kim88'
 
